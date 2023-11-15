@@ -1,0 +1,15 @@
+#PSEUDOCODE
+
+1) Write a function for each arithmetic operation (Addition, Subtraction, Multiplication, Division).
+2) Display a menu for the user to select an operation.
+3) Get user input for the desired operation.
+4) If the user input is within the range (1 to 4).
+   a. Prompt the user to enter two numbers.
+   b. Perform the selected arithmetic operation on the numbers.
+   c. Display the result.
+5) If the user input is invalid or not in the range (1 to 4).
+   a. Display an error message.
+   b. Ask the user to input a valid choice again.
+6) Ask the user if they want to perform another calculation.
+      - If 'yes', repeat the process from step 3. 
+      - If 'no', end the process.
